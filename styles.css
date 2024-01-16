@@ -1,0 +1,34 @@
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#networksDropdownMenu {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  z-index: 400;
+  width: 200px;
+}
+
+#stationsDropdownMenu {
+  position: absolute;
+  top: 80px;
+  right: 20px;
+  padding: 10px;
+  z-index: 400;
+  width: 200px;
+}
+
+#generateButton {
+  position: absolute;
+  top: 140px;
+  right: 20px;
+  padding: 10px;
+  z-index: 400;
+  width: 200px;
+  cursor: pointer;
+}
